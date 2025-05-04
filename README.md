@@ -1,4 +1,4 @@
-# Sales-Database-Dashboard
+# Store-Database-Dashboard
 
 🧠 Insights:
 
